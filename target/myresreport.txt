@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Date: Wed, 20 Oct 2021 02:07:16 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-powered-by: Express
+x-ratelimit-limit: 1000
+x-ratelimit-remaining: 995
+x-ratelimit-reset: 1634651007
+vary: Origin, Accept-Encoding
+access-control-allow-credentials: true
+cache-control: max-age=43200
+pragma: no-cache
+expires: -1
+x-content-type-options: nosniff
+etag: W/"d9-iWGkhNuCVU3QUpWXcSkr72qX524"
+via: 1.1 vegur
+CF-Cache-Status: REVALIDATED
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=I0QnEvc9%2B9wZ8iYTsaxdhg%2Fz2WmCrgjh76iwMBrp%2B9oDA5KLw8iApXqOEmptr13U71W0vGrTLc29iVqqFsX9YBnURIhNWazdKZ0cAA%2FscWeRWt35pOTkGVk2pnypc35hgtVizmtz%2FW5%2FQjfuTZPX"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6a0eb10a6de30ef4-BOM
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-27=":443"; ma=86400
+
+{
+    "userId": 1,
+    "id": 10,
+    "title": "optio molestias id quia eum",
+    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+}

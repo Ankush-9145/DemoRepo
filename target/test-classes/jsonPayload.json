@@ -1,0 +1,32 @@
+{
+  "data1" : "magnitia",
+  "data2" : ["abdul",10,true,10.08],
+  "data3" : {
+              "name" : "sindhu",
+              "age"  : 25
+            },
+  "data4" : [
+              {
+                "name" : "batch256",
+                "age" : 30
+              },
+              
+              {
+                "name" : "batch254",
+                "age"  : 25,
+                "height": 5.8
+              }
+            ],
+            
+  "data5" : {
+              "engg" :{
+                        "official" : "malysia",
+                        "common" : null
+                      },
+              
+              "msa" :{
+                       "cars" : ["FORD","BMW","FIAT"],
+                       "ITR" : true
+                     }
+            }
+}
